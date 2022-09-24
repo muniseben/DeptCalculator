@@ -1,0 +1,117 @@
+body{
+    margin: auto;
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size:105%;
+    text-align: center; 
+    font-family: 'Aladin', cursive;
+    
+}
+  
+.header { 
+    width: 100%;
+    font-size: 35px;
+    margin-top: 100px; 
+    color: #006d7a;
+}
+
+.main{
+    width: 100%;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 50px; 
+    color: #006d7a; 
+}
+
+#blank{ 
+    width: 300px;
+    height: 30px;
+    border: 2px solid;
+    font-size:25px;
+    border-radius: 15px;
+    color: #006d7a; 
+    text-align: center;
+}
+
+#add{
+    margin:auto;
+    margin-top: 20px;
+    width: 200px;
+    height: 35px;
+    border: 2px solid;
+    border-radius: 14px;
+    color: #006d7a; 
+}
+
+#answer{
+    margin:auto;
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    border: 2px solid;
+    font-size:25px;
+    border-radius: 15px;
+    color:#303e3f; 
+    font-size: 15px;
+}
+
+.table{
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px; 
+    color: #006d7a; 
+}
+
+#table1{
+    margin:auto;
+    margin-top: 20px; 
+    width: 360px;
+    height: 30px;
+    border: 2px solid;
+    font-size:25px;
+    color: #006d7a; 
+}
+
+#table1, th {
+    border: 2px solid #303e3f;
+    border-radius: 15px;
+  }
+
+#siyah{
+    color: #303e3f; 
+}
+
+#id{
+    margin:auto;
+    width: 260px;
+    height: 30px;
+    border: 2px solid;
+    font-size:25px;
+    border-radius: 15px;
+    color: #006d7a; 
+}
+
+#level{
+    margin-top: 20px;
+    color: #006d7a; 
+}
+
+#clean{
+        margin:auto;
+        margin-top:20px;
+        width: 200px;
+        height: 35px;
+        border: 2px solid;
+        border-radius: 14px;
+        color:#006d7a
+}
+
+
+
+
+
+
+
+
+
